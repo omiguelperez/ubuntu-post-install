@@ -8,6 +8,7 @@ Custom settings after install Ubuntu.
 
 - Install [Chrome Brower](https://www.google.com/intl/es-419/chrome/).
 - Install *git* with `sudo apt install git`.
+- Set git aliases `cp ./gitfiles/.gitconfig ~/`.
 
 ### ZSH
 
