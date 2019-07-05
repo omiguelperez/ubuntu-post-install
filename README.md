@@ -10,6 +10,7 @@ Custom settings after install Ubuntu.
 - Install *git* with `sudo apt install git`.
 - Set git aliases `cp ./gitfiles/.gitconfig ~/`.
 - Install vim `sudo apt install vim`.
+- Install Chromium Browser with `sudo apt install chromium-browser`.
 
 ### ZSH
 
