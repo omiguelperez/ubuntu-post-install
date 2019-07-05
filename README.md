@@ -9,6 +9,7 @@ Custom settings after install Ubuntu.
 - Install [Chrome Brower](https://www.google.com/intl/es-419/chrome/).
 - Install *git* with `sudo apt install git`.
 - Set git aliases `cp ./gitfiles/.gitconfig ~/`.
+- Install vim `sudo apt install vim`.
 
 ### ZSH
 
@@ -20,7 +21,8 @@ Custom settings after install Ubuntu.
 - Install [Powerline Fonts](https://github.com/powerline/fonts).
 - Install [Infinality](https://ubuntuforums.org/showthread.php?t=2385152).
 
+### Node.js
 
-
-
-
+- Install [NVM](https://github.com/nvm-sh/nvm).
+- Install node.js specific version.
+- Install NGROK with `npm i -g ngrok`.
