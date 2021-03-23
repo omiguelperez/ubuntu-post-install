@@ -27,3 +27,9 @@ Custom settings after install Ubuntu.
 - Install [NVM](https://github.com/nvm-sh/nvm).
 - Install node.js specific version.
 - Install NGROK with `npm i -g ngrok`.
+
+# windows-10-post-install
+
+### Fonts
+
+- Install [Mac Type](https://www.mactype.net/)
